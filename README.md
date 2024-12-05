@@ -16,6 +16,9 @@ This project uses a Multi-Layer Perceptron (MLP) model to perform classification
 - December 4, 2024
 
 ---
+## Jupyter Notebook
+
+The beginning of the Jupyter notebook `Summer_Internship_ML.ipynb` contains some of my work during my internship at IISER Kolkata on machine learning. The actual project work starts later in the notebook.
 
 ## Contents
 
@@ -61,10 +64,6 @@ This project uses a Multi-Layer Perceptron (MLP) model to perform classification
    - Python 3.x
    - Required libraries (listed in `requirements.txt`)
 
-
-## Jupyter Notebook
-
-The beginning of the Jupyter notebook `Summer_Internship_ML.ipynb` contains some of my work during my internship at IISER Kolkata on machine learning. The actual project work starts later in the notebook.
 
 ## Acknowledgments
 
