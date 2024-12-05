@@ -56,11 +56,6 @@ This project uses a Multi-Layer Perceptron (MLP) model to perform classification
    - Python 3.x
    - Required libraries (listed in `requirements.txt`)
 
-2. **Usage**:
-   - To run the classification model:
-     ```bash
-     python classify_tweets.py --input your_data.csv --output predictions.csv
-     ```
 
 ## Jupyter Notebook
 
