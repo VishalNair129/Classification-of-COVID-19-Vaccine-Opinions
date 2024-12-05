@@ -9,11 +9,6 @@ This project uses a Multi-Layer Perceptron (MLP) model to perform classification
 ### Author
 - **Vishal Nair** - [v1292002@gmail.com](mailto:v1292002@gmail.com)
 
-### Supervisor
-- Dr. Kripabandhu Ghosh, Assistant Professor, CDS, IISER Kolkata
-
-### Date
-- December 4, 2024
 
 ---
 ## Jupyter Notebook
