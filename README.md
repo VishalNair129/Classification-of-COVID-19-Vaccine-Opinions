@@ -31,6 +31,11 @@ This project uses a Multi-Layer Perceptron (MLP) model to perform classification
 3. **Experimental Setup**
    - **Algorithms Used**: 
       - *Multi-Layer Perceptron (MLP)*
+      - *Naive Bayes*
+      - *Support Vector Machines*
+      - *Logistic Regression*
+      - *Linear Regression*
+      - *K-Nearest Neighbours*
    - **Evaluation Metrics**:
       - Macro F1-Score
       - Accuracy
